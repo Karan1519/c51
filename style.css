@@ -1,0 +1,49 @@
+h1  {
+    color:rgb(81, 255, 0);
+}
+*{
+    border:solid;
+}
+body{
+    background-color: #808080;
+}
+.header{
+    display:flex;
+    justify-content:flex-start;
+    background-color: aqua;
+}
+.paragraph{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: rgb(179, 248, 245);
+}
+.trex{
+    display:flex;
+    justify-content:flex-start;
+    background-color:#B6D8D6
+}
+.pong{
+    display:flex;
+    justify-content:flex-start;
+    background-color: #B6D8D6
+}
+.bird{
+    display:flex;
+    justify-content:flex-start;
+    background-color:#B6D8D6
+}
+.car{
+    display:flex;
+    justify-content:flex-start;
+    background-color:#B6D8D6
+}
+
+.icon{
+    display:flex;
+    justify-content:flex-start;
+    background-color: #B6D8D6
+}
+
+
+
+
